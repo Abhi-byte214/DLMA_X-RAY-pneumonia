@@ -1,0 +1,1 @@
+# DLMA_X-RAY-pneumonia
